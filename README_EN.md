@@ -19,6 +19,7 @@
 
 <div align="center">
 
+[![evaluation](https://img.shields.io/badge/OpenCompass-Support-royalblue.svg)](https://github.com/internLM/OpenCompass/)
 [![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](https://github.com/Baichuan-inc/baichuan-13B/blob/main/LICENSE)
 <h4 align="center">
     <p>
